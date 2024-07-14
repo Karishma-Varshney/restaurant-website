@@ -1,2 +1,2 @@
-restaurant wen site <br>
-author - Karishma Varshney 
+Restaurant Web site <br>
+Author - Karishma Varshney 
